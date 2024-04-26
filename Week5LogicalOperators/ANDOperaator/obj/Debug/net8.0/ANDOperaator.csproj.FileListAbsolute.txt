@@ -1,0 +1,14 @@
+C:\Users\kaarel.kuljus\Desktop\Programmeerimine\Week 5\Week5LogicalOperators\ANDOperaator\bin\Debug\net8.0\ANDOperaator.exe
+C:\Users\kaarel.kuljus\Desktop\Programmeerimine\Week 5\Week5LogicalOperators\ANDOperaator\bin\Debug\net8.0\ANDOperaator.deps.json
+C:\Users\kaarel.kuljus\Desktop\Programmeerimine\Week 5\Week5LogicalOperators\ANDOperaator\bin\Debug\net8.0\ANDOperaator.runtimeconfig.json
+C:\Users\kaarel.kuljus\Desktop\Programmeerimine\Week 5\Week5LogicalOperators\ANDOperaator\bin\Debug\net8.0\ANDOperaator.dll
+C:\Users\kaarel.kuljus\Desktop\Programmeerimine\Week 5\Week5LogicalOperators\ANDOperaator\bin\Debug\net8.0\ANDOperaator.pdb
+C:\Users\kaarel.kuljus\Desktop\Programmeerimine\Week 5\Week5LogicalOperators\ANDOperaator\obj\Debug\net8.0\ANDOperaator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kaarel.kuljus\Desktop\Programmeerimine\Week 5\Week5LogicalOperators\ANDOperaator\obj\Debug\net8.0\ANDOperaator.AssemblyInfoInputs.cache
+C:\Users\kaarel.kuljus\Desktop\Programmeerimine\Week 5\Week5LogicalOperators\ANDOperaator\obj\Debug\net8.0\ANDOperaator.AssemblyInfo.cs
+C:\Users\kaarel.kuljus\Desktop\Programmeerimine\Week 5\Week5LogicalOperators\ANDOperaator\obj\Debug\net8.0\ANDOperaator.csproj.CoreCompileInputs.cache
+C:\Users\kaarel.kuljus\Desktop\Programmeerimine\Week 5\Week5LogicalOperators\ANDOperaator\obj\Debug\net8.0\ANDOperaator.dll
+C:\Users\kaarel.kuljus\Desktop\Programmeerimine\Week 5\Week5LogicalOperators\ANDOperaator\obj\Debug\net8.0\refint\ANDOperaator.dll
+C:\Users\kaarel.kuljus\Desktop\Programmeerimine\Week 5\Week5LogicalOperators\ANDOperaator\obj\Debug\net8.0\ANDOperaator.pdb
+C:\Users\kaarel.kuljus\Desktop\Programmeerimine\Week 5\Week5LogicalOperators\ANDOperaator\obj\Debug\net8.0\ANDOperaator.genruntimeconfig.cache
+C:\Users\kaarel.kuljus\Desktop\Programmeerimine\Week 5\Week5LogicalOperators\ANDOperaator\obj\Debug\net8.0\ref\ANDOperaator.dll

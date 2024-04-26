@@ -1,0 +1,14 @@
+C:\Users\kaarel.kuljus\Desktop\Programmeerimine\Week 5\Week5LogicalOperators\OROperaator\bin\Debug\net8.0\OROperaator.exe
+C:\Users\kaarel.kuljus\Desktop\Programmeerimine\Week 5\Week5LogicalOperators\OROperaator\bin\Debug\net8.0\OROperaator.deps.json
+C:\Users\kaarel.kuljus\Desktop\Programmeerimine\Week 5\Week5LogicalOperators\OROperaator\bin\Debug\net8.0\OROperaator.runtimeconfig.json
+C:\Users\kaarel.kuljus\Desktop\Programmeerimine\Week 5\Week5LogicalOperators\OROperaator\bin\Debug\net8.0\OROperaator.dll
+C:\Users\kaarel.kuljus\Desktop\Programmeerimine\Week 5\Week5LogicalOperators\OROperaator\bin\Debug\net8.0\OROperaator.pdb
+C:\Users\kaarel.kuljus\Desktop\Programmeerimine\Week 5\Week5LogicalOperators\OROperaator\obj\Debug\net8.0\OROperaator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kaarel.kuljus\Desktop\Programmeerimine\Week 5\Week5LogicalOperators\OROperaator\obj\Debug\net8.0\OROperaator.AssemblyInfoInputs.cache
+C:\Users\kaarel.kuljus\Desktop\Programmeerimine\Week 5\Week5LogicalOperators\OROperaator\obj\Debug\net8.0\OROperaator.AssemblyInfo.cs
+C:\Users\kaarel.kuljus\Desktop\Programmeerimine\Week 5\Week5LogicalOperators\OROperaator\obj\Debug\net8.0\OROperaator.csproj.CoreCompileInputs.cache
+C:\Users\kaarel.kuljus\Desktop\Programmeerimine\Week 5\Week5LogicalOperators\OROperaator\obj\Debug\net8.0\OROperaator.dll
+C:\Users\kaarel.kuljus\Desktop\Programmeerimine\Week 5\Week5LogicalOperators\OROperaator\obj\Debug\net8.0\refint\OROperaator.dll
+C:\Users\kaarel.kuljus\Desktop\Programmeerimine\Week 5\Week5LogicalOperators\OROperaator\obj\Debug\net8.0\OROperaator.pdb
+C:\Users\kaarel.kuljus\Desktop\Programmeerimine\Week 5\Week5LogicalOperators\OROperaator\obj\Debug\net8.0\OROperaator.genruntimeconfig.cache
+C:\Users\kaarel.kuljus\Desktop\Programmeerimine\Week 5\Week5LogicalOperators\OROperaator\obj\Debug\net8.0\ref\OROperaator.dll
